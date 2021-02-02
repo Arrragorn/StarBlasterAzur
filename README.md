@@ -1,2 +1,4 @@
 # StarBlasterAzur
-prendre le projet du Nova Corp Star Blaster d'infographie (2019) et le mettre sur Azur
+Le but de ce projet est de mettre le Nova Corp Star Blaster de mon cours d'infographie que j'ai fait en 2019 et de le porter sur  microsoft azur comme static web page.
+
+
